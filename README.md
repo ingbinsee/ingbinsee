@@ -3,7 +3,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingbinsee&show_icons=true&theme=slateorange)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingbinsee&show_icons=true&theme=noctis_minimus)
 
 
 <!--
