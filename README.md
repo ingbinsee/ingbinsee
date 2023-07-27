@@ -1,7 +1,7 @@
 # Hi I'm Ingbin 👋
 
 ## Skills
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,git,github,figma,netlify"/>
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,git,github,figma,netlify"/>
 
 ## Actives
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ingbinsee&theme=zenburn)&nbsp;&nbsp;&nbsp;&nbsp;
